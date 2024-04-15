@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "nikita sarode",
+      "sname": "Mpsc(combine)",
+      "city": "Amravti",
+      "fee": "20000",
+      "id": 1
+    },
+    {
+      "name": "kalyani sarode",
+      "sname": "math",
+      "city": "karanja",
+      "fee": "3000",
+      "id": 2
+    }
+  ]
+}
